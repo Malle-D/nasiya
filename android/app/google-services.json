@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "165916312692",
+    "project_id": "nasiya-8ed62",
+    "storage_bucket": "nasiya-8ed62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165916312692:android:15d4184c19cf829f917d21",
+        "android_client_info": {
+          "package_name": "com.example.nasiya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCizRbvZ4HKyp4p-gb1JXIVvky2IqPe2w0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
